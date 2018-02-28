@@ -1,0 +1,52 @@
+/*
+** Font face
+** -----------------------------------------------------------------------------
+*/
+
+@font-face {
+   font-family: 'Quirlycues';
+   src: url(../fonts/Quirlycues.ttf);
+}
+
+/*
+** Base html
+** -----------------------------------------------------------------------------
+*/
+
+body {
+  font-size: 16px;
+  line-height: 1.50;
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+h1 {
+  font-family: 'Quirlycues';
+  font-size: 72px;
+  padding-top: 21px;
+  color: #000;
+}
+
+/*
+** Website logo
+** -----------------------------------------------------------------------------
+*/

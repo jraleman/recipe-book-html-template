@@ -1,5 +1,7 @@
 # Recipe Book - HTML5 Template
 
+![logo](images/logo.svg)
+
 ## Dependencies
 
   - [animate.css](https://github.com/daneden/animate.css)
@@ -14,3 +16,7 @@
 ## Fonts
 
   - [Quirlycues](http://www.1001fonts.com/quirlycues-font.html)
+
+## Misc
+
+  - [Logo (chef hat)](https://www.zazzle.com/cook_chef_hat_icon_postcard-239361171046549479)

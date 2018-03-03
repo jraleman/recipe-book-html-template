@@ -17,6 +17,7 @@
 
   - [Quirlycues](http://www.1001fonts.com/quirlycues-font.html)
 
-## Misc
+## Attributions
 
   - [Logo (chef hat)](https://www.zazzle.com/cook_chef_hat_icon_postcard-239361171046549479)
+  - [Banner](https://fgparker.s3.amazonaws.com/assets/43dcaf6c80cdbc1cbccffb8f718d0952b7f34bf8/kitchen-banner.full.jpg?1425296988)

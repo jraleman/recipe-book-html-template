@@ -1,8 +1,9 @@
 /*
-** Font face
+** Fonts
 ** -----------------------------------------------------------------------------
 */
 
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 @font-face {
    font-family: 'Quirlycues';
    src: url(../fonts/Quirlycues.ttf);
@@ -41,7 +42,7 @@ table {
 }
 
 /*
-** Website logo
+** Website Logo
 ** -----------------------------------------------------------------------------
 */
 
@@ -55,16 +56,28 @@ table {
   background-repeat: no-repeat;
   background-image: radial-gradient(rgba(126, 0, 119, 0.15), rgba(126, 0, 119, 0.75)), url("../images/kitchen-banner.jpg");
 }
-
 #logo img {
   height: 100px;
   width: auto;
   margin-top: 20px;
 }
-
 #logo h1 {
   font-family: 'Quirlycues';
   font-size: 72px;
   padding-top: 21px;
   color: #f9f9f9ff;
+}
+
+/*
+** Recipes Categories
+** -----------------------------------------------------------------------------
+*/
+
+#categories {
+
+}
+#categories h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3em;
+  color: #333;
 }

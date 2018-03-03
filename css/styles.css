@@ -51,7 +51,9 @@ table {
   margin-left: auto;
   margin-right: auto;
   background-size: cover;
-  background-color: #7e0077;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: radial-gradient(rgba(126, 0, 119, 0.15), rgba(126, 0, 119, 0.75)), url("../images/kitchen-banner.jpg");
 }
 
 #logo img {

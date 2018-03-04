@@ -16,12 +16,12 @@
 */
 
 body {
+  background-color: #a44c9f;
+  color: #666;
   font-size: 16px;
-  line-height: 1.50;
-  color: #fff;
-  font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
+  line-height: 1.50;
   overflow-x: hidden;
 }
 ol, ul {
@@ -65,8 +65,9 @@ table {
 #logo h1 {
   font-family: 'Quirlycues';
   font-size: 72px;
+  font-weight: normal;
   padding-top: 24px;
-  color: #f9f9f9ff;
+  color: #f9f9f9;
 }
 
 /*
@@ -75,8 +76,7 @@ table {
 */
 
 #categories {
-  background-color: #f9f9f9ff;
-  font-family: 'Montserrat', sans-serif;
+  background-color: #f9f9f9;
   padding-top: 12px;
   padding-bottom: 24px;
 }
@@ -92,7 +92,7 @@ table {
   border-radius: 2.5px;
   border-style: solid !important;
   background-color: #a44c9f;
-  color: #f9f9f9ff;
+  color: #f9f9f9;
   font-weight: bold;
   margin-top: 6px;
 }

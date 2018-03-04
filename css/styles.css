@@ -3,6 +3,7 @@
 ** -----------------------------------------------------------------------------
 */
 
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script');
 @font-face {
    font-family: 'Quirlycues';
@@ -59,12 +60,12 @@ table {
 #logo img {
   height: 100px;
   width: auto;
-  margin-top: 20px;
+  margin-top: 24px;
 }
 #logo h1 {
   font-family: 'Quirlycues';
   font-size: 72px;
-  padding-top: 21px;
+  padding-top: 24px;
   color: #f9f9f9ff;
 }
 
@@ -74,10 +75,23 @@ table {
 */
 
 #categories {
-
+  color: #666;
+  font-family: 'Montserrat', sans-serif;
 }
 #categories h2 {
+  color: #333;
   font-family: 'Dancing Script', cursive;
   font-size: 3em;
-  color: #333;
+  margin-bottom: 12px;
+  margin-top: 24px;
+}
+.category-item {
+  border: 2px;
+  border-color: #ff58df;
+  border-radius: 2.5px;
+  border-style: solid !important;
+  background-color: #a44c9f;
+  color: #f9f9f9ff;
+  font-weight: bold;
+  margin-top: 6px;
 }

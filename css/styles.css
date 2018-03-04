@@ -75,15 +75,16 @@ table {
 */
 
 #categories {
-  color: #666;
+  background-color: #f9f9f9ff;
   font-family: 'Montserrat', sans-serif;
+  padding-top: 12px;
+  padding-bottom: 24px;
 }
 #categories h2 {
   color: #333;
   font-family: 'Dancing Script', cursive;
-  font-size: 3em;
+  font-size: 2em;
   margin-bottom: 12px;
-  margin-top: 24px;
 }
 .category-item {
   border: 2px;

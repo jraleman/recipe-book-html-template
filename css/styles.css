@@ -117,6 +117,13 @@ table {
   font-size: 2em;
   margin-bottom: 12px;
 }
+#items h3 {
+
+}
+.recipe-item {
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+}
 
 /*
 ** Website Footer
@@ -130,11 +137,5 @@ footer {
   margin-top: 24px;
 }
 footer h3 {
-
-}
-.footer-about {
-
-}
-.footer-author {
 
 }

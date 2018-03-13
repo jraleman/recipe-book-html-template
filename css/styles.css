@@ -161,6 +161,11 @@ table {
   font-size: 2em;
   margin-bottom: 12px;
 }
+.recipe-picture {
+  max-width: 100%;
+  height: auto;
+}
+
 
 /*
 ** Website Footer

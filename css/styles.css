@@ -160,6 +160,10 @@ table {
   font-family: 'Dancing Script', cursive;
   font-size: 2em;
   margin-bottom: 24px;
+  margin-top: 12px;
+}
+#recipe h3 {
+  background-color: #f1f1f1;
 }
 .recipe-picture {
   max-width: 100%;
@@ -167,8 +171,14 @@ table {
   margin-bottom: 24px;
   margin-top: 6px;
 }
-.recipe-info {
+.recipe-info .row {
+  margin-top: 12px;
+  padding-top: 6px;
+  padding-bottom: 6px;
   background-color: #f9f9f9;
+}
+.recipe-info i {
+  color: #a44c9f;
 }
 .recipe-ingredients {
   background-color: #f9f9f9;

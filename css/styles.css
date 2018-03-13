@@ -159,13 +159,24 @@ table {
   color: #333;
   font-family: 'Dancing Script', cursive;
   font-size: 2em;
-  margin-bottom: 12px;
+  margin-bottom: 24px;
 }
 .recipe-picture {
   max-width: 100%;
   height: auto;
+  margin-bottom: 24px;
+  margin-top: 6px;
 }
-
+.recipe-info {
+  background-color: #f9f9f9;
+}
+.recipe-ingredients {
+  background-color: #f9f9f9;
+  margin-top: 24px;
+}
+.recipe-steps {
+  background-color: #f9f9f9;
+}
 
 /*
 ** Website Footer

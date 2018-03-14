@@ -143,12 +143,16 @@ table {
   margin-bottom: 12px;
 }
 #items h3 {
+  margin-top: 12px;
   color: #666;
 }
 .recipe-item {
   margin-bottom: 24px;
   padding-bottom: 12px;
   background-color: #fff;
+  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+  box-shadow: 0 1px 0 rgba(0,0,0,.15);
 }
 .recipe-item img {
   width: 100%;

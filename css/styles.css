@@ -208,10 +208,10 @@ table {
   margin: 0 0 22px;
 }
 .ingredients-list dt {
-  width: 25%;
+  width: 15%;
 }
 .ingredients-list dd {
-  width: 75%;
+  width: 85%;
 }
 .ingredients-list dt {
   float: left;

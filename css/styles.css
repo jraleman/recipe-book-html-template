@@ -74,7 +74,10 @@ table {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: radial-gradient(rgba(126, 0, 119, 0.15), rgba(126, 0, 119, 0.75)), url("../images/kitchen-banner.jpg");
+  background-image:
+    radial-gradient(rgba(126, 0, 119, 0.15),
+    rgba(126, 0, 119, 0.75)),
+    url("../images/kitchen-banner.jpg");
 }
 #logo img {
   height: 100px;
@@ -115,10 +118,13 @@ table {
   font-weight: bold;
   margin-top: 6px;
 }
+.category-item i {
+  padding-top: 6px;
+  padding-bottom: 3px;
+}
 .show-all {
   margin-top: 12px;
 }
-
 
 /*
 ** Recipes Items

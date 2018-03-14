@@ -196,6 +196,9 @@ table {
   padding-top: 6px;
   padding-bottom: 6px;
   background-color: #f9f9f9;
+  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+  box-shadow: 0 1px 0 rgba(0,0,0,.15);
 }
 .recipe-info i {
   color: #a44c9f;
@@ -257,6 +260,9 @@ table {
     color: #222;
     text-decoration: none;
     transition: all .3s ease-out;
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+    -moz-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+    box-shadow: 0 1px 0 rgba(0,0,0,.15);
 }
 .recipe-directions li:hover{
     background: #f1f1f1;

@@ -202,15 +202,51 @@ table {
   background-color: #f9f9f9;
   margin-top: 24px;
 }
-/* Source: */
-ol {
+.ingredients-list dl {
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 22px;
+}
+.ingredients-list dt {
+  width: 25%;
+}
+.ingredients-list dd {
+  width: 75%;
+}
+.ingredients-list dt {
+  float: left;
+  margin: 0 0 8px;
+  padding: 0 10px;
+  height: 35px;
+  font-size: 13px;
+  line-height: 37px;
+  background: #f9f9f9;
+  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+  box-shadow: 0 1px 0 rgba(0,0,0,.15);
+}
+.ingredients-list dd {
+  float: left;
+  margin: 0 0 8px;
+  padding: 0 15px;
+  height: 35px;
+  font-size: 14px;
+  line-height: 37px;
+  font-weight: 600;
+  background: #a44c9f;
+  color: #f9f9f9;
+  -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+  -moz-box-shadow: 0 1px 0 rgba(0,0,0,.15);
+  box-shadow: 0 1px 0 rgba(0,0,0,.15);
+}
+.recipe-directions ol {
     counter-reset: li;
     list-style: none;
     padding: 0;
     margin-bottom: 4em;
     text-shadow: 0 1px 0 rgba(255,255,255,.5);
 }
-ol ol {
+.recipe-directions ol ol {
     margin: 0 0 0 2em;
 }
 .recipe-directions li {

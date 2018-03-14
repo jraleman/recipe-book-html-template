@@ -176,22 +176,20 @@ table {
   margin-bottom: 24px;
   margin-top: 6px;
   -webkit-box-shadow:
-      0px 0px 0px 2px rgba(0,0,0,0.6),
-                 0px 0px 0px 14px #fff,
-                 0px 0px 0px 18px rgba(0,0,0,0.2),
-                 6px 6px 8px 17px #555;
-
-      -moz-box-shadow:
-      0px 0px 0px 2px rgba(0,0,0,0.6),
-                 0px 0px 0px 14px #fff,
-                 0px 0px 0px 18px rgba(0,0,0,0.2),
-                 6px 6px 8px 17px #555;
-
-           box-shadow:
-      0px 0px 0px 2px rgba(0,0,0,0.6),
-                 0px 0px 0px 14px #fff,
-                 0px 0px 0px 18px rgba(0,0,0,0.2),
-                 6px 6px 8px 17px #555;
+    0px 0px 0px 2px rgba(0,0,0,0.6),
+    0px 0px 0px 14px #fff,
+    0px 0px 0px 18px rgba(0,0,0,0.2),
+    6px 6px 8px 17px #555;
+  -moz-box-shadow:
+    0px 0px 0px 2px rgba(0,0,0,0.6),
+    0px 0px 0px 14px #fff,
+    0px 0px 0px 18px rgba(0,0,0,0.2),
+    6px 6px 8px 17px #555;
+  box-shadow:
+    0px 0px 0px 2px rgba(0,0,0,0.6),
+    0px 0px 0px 14px #fff,
+    0px 0px 0px 18px rgba(0,0,0,0.2),
+    6px 6px 8px 17px #555;
 }
 .recipe-info .row {
   margin-top: 12px;
@@ -209,19 +207,15 @@ table {
 .ingredients-list dl {
   display: inline-block;
   width: 100%;
-  margin: 0 0 22px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
 }
 .ingredients-list dt {
   width: 15%;
-}
-.ingredients-list dd {
-  width: 85%;
-}
-.ingredients-list dt {
   float: left;
   margin: 0 0 8px;
   padding: 0 10px;
-  height: 35px;
   font-size: 13px;
   line-height: 37px;
   background: #f9f9f9;
@@ -230,11 +224,11 @@ table {
   box-shadow: 0 1px 0 rgba(0,0,0,.15);
 }
 .ingredients-list dd {
+  width: 85%;
   float: left;
   margin: 0 0 8px;
   padding: 0 15px;
-  height: 35px;
-  font-size: 14px;
+  font-size: 13px;
   line-height: 37px;
   font-weight: 600;
   background: #a44c9f;

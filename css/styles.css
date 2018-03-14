@@ -325,3 +325,7 @@ footer {
   margin-right: -50%;
   transform: translate(-50%, -50%)
 }
+.footer-author a {
+  color: #f9f9f9;
+  font-weight: bold;
+}

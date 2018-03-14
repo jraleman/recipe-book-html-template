@@ -41,6 +41,10 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
 
 /*
 ** Splash Screen

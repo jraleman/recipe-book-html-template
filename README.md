@@ -1,6 +1,8 @@
 # Recipe Book - HTML5 Template
 
-![logo](images/logo.svg)
+Recipe book is a responsive Bootstrap 4 template.
+
+[Click here for the demo](https://jraleman.com/recipe-book-html5-template)
 
 ## Dependencies
 
@@ -22,4 +24,10 @@
   - [Banner](https://fgparker.s3.amazonaws.com/assets/43dcaf6c80cdbc1cbccffb8f718d0952b7f34bf8/kitchen-banner.full.jpg?1425296988)
   - [Icons](https://icons8.com/icon/set/food)
   - [BBQ Pork Ribs](http://wandering-wino.com/site_media/uploads/food/bbq_pork_ribs.jpg)
-  - [Footer Quote](https://www.goodreads.com/author/show/1321968.Molly_Wizenberg)
+  - [Footer Quote - Molly Wizenberg](https://www.goodreads.com/author/show/1321968.Molly_Wizenberg)
+
+## License
+
+Recipe Book is licensed under The MIT License (MIT).
+Which means that you can use, copy, modify, merge, publish, distribute,
+sub-license, and/or sell copies of the final products.

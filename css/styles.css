@@ -315,6 +315,7 @@ footer {
 }
 .footer-about {
   margin-bottom: 24px;
+  font-style: italic;
 }
 .footer-author {
   margin: 0;

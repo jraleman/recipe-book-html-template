@@ -22,3 +22,4 @@
   - [Banner](https://fgparker.s3.amazonaws.com/assets/43dcaf6c80cdbc1cbccffb8f718d0952b7f34bf8/kitchen-banner.full.jpg?1425296988)
   - [Icons](https://icons8.com/icon/set/food)
   - [BBQ Pork Ribs](http://wandering-wino.com/site_media/uploads/food/bbq_pork_ribs.jpg)
+  - [Footer Quote](https://www.goodreads.com/author/show/1321968.Molly_Wizenberg)
